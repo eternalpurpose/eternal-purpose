@@ -12,6 +12,6 @@ This is a free-to-license library of scripturally-based formational discipleship
 - [Resource 6: Revival](Coming Soon)
 - [Resource 7: Intercession](Coming Soon)
 
----
+---  
 
 *Created by Dr. John Clements | Eternal Purpose Initiative*
