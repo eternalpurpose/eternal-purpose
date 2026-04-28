@@ -1,0 +1,8 @@
+baseURL = "https://eternal-purpose.github.io/eternal-purpose/"
+languageCode = "en-us"
+title = "Eternal Purpose Resources"
+theme = "hugo-book"
+
+[params]
+  author = "Dr. John Clements"
+  description = "A free-to-license library of scripturally-based formational discipleship resources."
